@@ -1,0 +1,19 @@
+
+/*Comment css file*/
+
+.div1{
+		width: 250%;
+		height: 40px; 
+		background-color: #007bff; 
+		border-radius: 5px;
+
+	}
+
+.label1{
+
+	font-size: 20px; 
+	padding-left: 35%; 
+	padding-top: 5px; 
+	color: #fff; 
+
+}
